@@ -2,9 +2,12 @@
 ___
 
 ## Speaker
-<div  style="width:100px; height:100px; border-radius:100%; overflow:hidden;"><img src="images/guolu.jpg" alt=""></div>
-
+<center>
+<img src="images/guolu.jpg" width="25%" height="25%" border-radius: 100%/>
 Guo Lu
+</center>
+
+
 
 <div style="columns: 2;">Test</div>
 
