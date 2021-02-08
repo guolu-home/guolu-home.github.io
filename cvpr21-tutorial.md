@@ -2,6 +2,12 @@
 ___
 
 ## Speaker
+<div  style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
+
+<img src="images/guolu.jpg" alt="">
+
+</div>
+
 Guo Lu
 
 ## Schedule
