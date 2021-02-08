@@ -3,7 +3,7 @@ ___
 
 ## Speaker
 <center>
-<img src="images/guolu.jpg" width="25%" height="25%" border-radius: 100%/>
+<img src="images/guolu.jpg" width="25%" height="25%" border-radius="100%" />
 Guo Lu
 </center>
 
