@@ -1,9 +1,16 @@
-## Tutorial
+# Tutorial
 ___
 
 ## Speaker
 <center>
-<img src="images/guolu.jpg" width="120px" height="120px" style="border-radius:100%" /><br>Guo Lu
+
+<table><tr> 
+
+<td> <img src="images/dongxu.jpg" width="120px" height="120px" style="border-radius:100%" /><br>Dong Xu</td> 
+
+<td> <img src="images/guolu.jpg" width="120px" height="120px" style="border-radius:100%" /><br>Guo Lu</td> 
+
+</tr></table> 
 
 </center>
 
