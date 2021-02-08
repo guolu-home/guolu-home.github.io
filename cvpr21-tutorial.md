@@ -3,11 +3,8 @@ ___
 
 ## Speaker
 <center>
-<img src="images/guolu.jpg" width="120px" height="120px" style="border-radius:100%" />
+<img src="images/guolu.jpg" width="120px" height="120px" style="border-radius:100%" /><br>Guo Lu
 
-
-
-Guo Lu
 </center>
 
 
