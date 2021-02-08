@@ -4,6 +4,15 @@ ___
 ## Speaker
 <center>
 <img src="images/guolu.jpg" width="25%" height="25%" border-radius="100%" />
+
+Guo Lu
+</center>
+
+
+
+<center>
+<img src="images/guolu.jpg" width="120px"  border-radius="120px" margin-bottom="10px" />
+
 Guo Lu
 </center>
 
