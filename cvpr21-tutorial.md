@@ -37,30 +37,29 @@ Specifically, we will first introduce the end-to-end learning based image and vi
 
 ### Tutorial Outline
 
-1. Standard Activities of learning based Image and Video Compression
+1. Standard Activities of learning based Image and Video Compression<br>
+   a) Brief introduction to standards involving learning based image and video compression.<br>
+   b) Latest progress on learning based image and video coding tools in various standards.<br>
+   c) Discussion and Benchmark Results.<br>
 
-   a) Brief introduction to standards involving learning based image and video compression.
+2. End-to-end Learning based Image and Video Compression<br>
+   a) Brief introduction of classical image and video compression frameworks<br>
+   b) Learning based image compression<br>
+   c) Learning based video compression<br>
+   d) Rate distortion optimization techniques for learned image and video compression<br>
+   e) Benchmark results and Discussions<br>
 
-   b) Latest progress on learning based image and video coding tools in various standards.
+3. Learning based Point Cloud Compression<br>
+   a) Existing work for traditional point cloud compression<br>
+   b) Learning based static point cloud geometry compression<br>
+   c) Learning based dynamic point cloud geometry compression<br>
+   d) Learning based point cloud attribute compression<br>
 
-   c) Discussion and Benchmark Results
-
-2. End-to-end Learning based Image and Video Compression
-   a) Brief introduction of classical image and video compression frameworks
-   b) Learning based image compression
-   c) Learning based video compression
-   d) Rate distortion optimization techniques for learned image and video compression
-   e) Benchmark results and Discussions
-3. Learning based Point Cloud Compression
-   a) Existing work for traditional point cloud compression
-   b) Learning based static point cloud geometry compression
-   c) Learning based dynamic point cloud geometry compression
-   d) Learning based point cloud attribute compression
-4. Discussion and Future Directions
-   a) Limitations of the current learning based approaches
-   b) Visual data compression for machines
-   c) Visual data compression for robotics and self-driving
-   d) Open source projects
+4. Discussion and Future Directions<br>
+   a) Limitations of the current learning based approaches<br>
+   b) Visual data compression for machines<br>
+   c) Visual data compression for robotics and self-driving<br>
+   d) Open source projects<br>
 
 ## Tutorial
 * SlideShare ([link]())
