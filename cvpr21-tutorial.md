@@ -5,11 +5,11 @@ ___
 ## Organizers
 <table><tr> 
 
-<td width="350px align="center" style="border-color:transparent; overflow: hidden;"> <img src="images/xudong.png" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html">Dong Xu<br>University of Sydney</a></td> 
+<td width="350px" align="center" style="border-color:transparent; overflow: hidden;"> <img src="images/xudong.png" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html">Dong Xu<br>University of Sydney</a></td> 
 
-<td width="350px align="center" style="border-color:transparent; overflow: hidden"> <img src="images/luguo.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://guolusjtu.github.io/guoluhomepage/">Guo Lu<br>Beijing Institute of Technology</a></td> 
+<td width="350px" align="center" style="border-color:transparent; overflow: hidden"> <img src="images/luguo.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://guolusjtu.github.io/guoluhomepage/">Guo Lu<br>Beijing Institute of Technology</a></td> 
 
-<td width="350px align="center" style="border-color:transparent; overflow: hidden"> <img src="images/liushan.png" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://www.linkedin.com/in/shanliu/">Shan Liu<br>Tencent</a></td> 
+<td width="350px" align="center" style="border-color:transparent; overflow: hidden"> <img src="images/liushan.png" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://www.linkedin.com/in/shanliu/">Shan Liu<br>Tencent</a></td> 
 
 </tr></table> 
 
