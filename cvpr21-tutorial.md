@@ -18,9 +18,9 @@ ___
 
 <td align="center" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/wangshenlong.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~slwang/">Shenlong Wang<br>Uber ATG</a></td> 
 
-<td align="center" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/requel.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun<br>Uber ATG / University of Toronto</a></td> 
+<td align="center" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/raquel.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun<br>Uber ATG / University of Toronto</a></td> 
 
-<td align="center" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/radu.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://people.ee.ethz.ch/~timofter/">Radu Timofte<br>ETH Zurich</a></td> 
+<td align="center" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/radu.png" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://people.ee.ethz.ch/~timofter/">Radu Timofte<br>ETH Zurich</a></td> 
 
 </tr>
 
@@ -38,8 +38,11 @@ Specifically, we will first introduce the end-to-end learning based image and vi
 ### Tutorial Outline
 
 1. Standard Activities of learning based Image and Video Compression
-   a) Brief introduction to standards involving learning based image and video compression..
+
+   a) Brief introduction to standards involving learning based image and video compression.
+
    b) Latest progress on learning based image and video coding tools in various standards.
+
    c) Discussion and Benchmark Results
 
 2. End-to-end Learning based Image and Video Compression
