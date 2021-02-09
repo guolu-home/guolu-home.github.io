@@ -5,9 +5,9 @@ ___
 ## Organizers
 <table><tr> 
 
-<td align="center" style="border-color:transparent"> <img src="images/xudong.png" width="120px" height="120px" style="border-radius:100%; overflow:hidden;" /><br>[Dong Xu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html)</td> 
+<td align="center" style="border-color:transparent; overflow: hidden;"> <img src="images/xudong.png" width="120px" height="120px" style="border-radius:100%; position:relative;" /><br><a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html">Dong Xu</a></td> 
 
-<td align="center" style="border-color:transparent"> <img src="images/luguo.jpg" width="120px" height="120px" style="border-radius:100%; overflow:hidden;" /><br>[Guo Lu](https://guolusjtu.github.io/guoluhomepage/)</td> 
+<td align="center" style="border-color:transparent; overflow: hidden"> <img src="images/luguo.jpg" width="120px" height="120px" style="border-radius:100%; position:relative;" /><br><a href="https://guolusjtu.github.io/guoluhomepage/">Guo Lu</a></td> 
 
 </tr></table> 
 
@@ -20,7 +20,7 @@ In this tutorial, we will introduce the recent progress in deep learning based v
 
 Specifically, we will first introduce the end-to-end learning based image and video compression methods and discuss the current benchmark results. Then, we will provide detailed introductions for the latest standard procedures for learning based image or video compression approaches, such as JPEG AI, JVET NNVC and IEEE FVC. After that, we will discuss the recent work on learning based point cloud compression and analyze several widely used point cloud processing methods. Finally, we will discuss the limitations of the current learning based compression methods and the future research directions, like video compression for machines. In summary, our tutorial will cover both latest works from the academic community and the standardization progress in industry, which will help the audiences with different backgrounds better understand the recent progresses in this emerging research area.
 
-### **Tutorial Outline**
+#### Tutorial Outline
 
 1. Standard Activities of learning based Image and Video Compression
 
