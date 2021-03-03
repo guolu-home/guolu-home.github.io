@@ -28,7 +28,7 @@ ___
 
 
 ## Schedule
-_xx-xxPM (xx Time), xx xx, 2021_
+TBD
 
 ## Description
 In this tutorial, we will introduce the recent progress in deep learning based visual data compression, including  image compression, video compression and point cloud compression. In the past few years, deep learning techniques have been successfully applied to various computer vision and image processing applications. However, for the data compression task, the traditional approaches (i.e., block based motion estimation and motion compensation, etc.) are still widely employed in the mainstream codecs. Considering the powerful representation capability of neural networks, it is feasible to improve the data compression performance by employing the advanced deep learning technologies. To this end, the deep leaning based compression approaches have recently received increasing attention from both academia and industry in the field of computer vision and signal processing.
@@ -65,13 +65,7 @@ Specifically, we will first introduce the end-to-end learning based image and vi
 * SlideShare ([link]())
 * Slides ([pdf]())
 
-## Link
-* Related xxx
 
-## Reference
-
-* xxx
-* xxx
 
 
 
