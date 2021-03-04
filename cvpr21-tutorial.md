@@ -1,4 +1,4 @@
-Learning for Visual Data Compression
+# Learning for Visual Data Compression
 
 ___
 
