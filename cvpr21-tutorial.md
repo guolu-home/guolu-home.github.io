@@ -1,4 +1,4 @@
-# Learning for Visual Data Compression
+Learning for Visual Data Compression
 
 ___
 
@@ -21,6 +21,23 @@ ___
 <td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/raquel.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun<br>Uber ATG / University of Toronto</a></td> 
 
 <td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/radu.png" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://people.ee.ethz.ch/~timofter/">Radu Timofte<br>ETH Zurich</a></td> 
+
+</tr>
+
+</table> 
+
+
+
+## Guest Speakers
+
+<table>
+<tr> 
+
+<td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/yangren.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="https://renyang-home.github.io/">Ren Yang<br>ETH Zurich</a></td> 
+
+<td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <br><a>TBD<br>TBD</a></td> 
+
+<td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <br><a>TBD<br>TBD</a></td> 
 
 </tr>
 
