@@ -1,3 +1,4 @@
+
 # Learning for Visual Data Compression
 
 ___
@@ -45,7 +46,41 @@ ___
 
 
 ## Schedule
-TBD
+|                 |                                               |         |
+| --------------- | --------------------------------------------- | ------- |
+| 10:00am-10:05am | Introduction to the speakers and our tutorial | Dong Xu |
+|                 |                                               |         |
+|                 |                                               |         |
+|                 |                                               |         |
+|                 |                                               |         |
+
+ 
+
+
+
+<div>
+    <table class="alt">
+            <tbody>
+                <col width="18%">
+                <col width="62%">
+                <col width="20%">
+                <tr>
+                    <td><span class="announce_date">10:00 - 10:05</span></td>
+                    <td class="tabletext" style="text-align: left">Introduction to the speakers and our tutorial</td>
+                    <td class="tabletext">Dong Xu</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+
+
 
 ## Description
 In this tutorial, we will introduce the recent progress in deep learning based visual data compression, including  image compression, video compression and point cloud compression. In the past few years, deep learning techniques have been successfully applied to various computer vision and image processing applications. However, for the data compression task, the traditional approaches (i.e., block based motion estimation and motion compensation, etc.) are still widely employed in the mainstream codecs. Considering the powerful representation capability of neural networks, it is feasible to improve the data compression performance by employing the advanced deep learning technologies. To this end, the deep leaning based compression approaches have recently received increasing attention from both academia and industry in the field of computer vision and signal processing.
