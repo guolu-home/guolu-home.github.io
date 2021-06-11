@@ -46,18 +46,6 @@ ___
 
 
 ## Schedule
-|                 |                                               |         |
-| --------------- | --------------------------------------------- | ------- |
-| 10:00am-10:05am | Introduction to the speakers and our tutorial | Dong Xu |
-|                 |                                               |         |
-|                 |                                               |         |
-|                 |                                               |         |
-|                 |                                               |         |
-
- 
-
-
-
 <div>
     <table class="alt">
             <tbody>
@@ -69,11 +57,40 @@ ___
                     <td class="tabletext" style="text-align: left">Introduction to the speakers and our tutorial</td>
                     <td class="tabletext">Dong Xu</td>
             </tr>
-        </tbody>
+
+​		<tr>
+                    <td><span class="announce_date">10:05 - 10:55</span></td>
+                    <td class="tabletext" style="text-align: left">Deep image compression</td>
+                    <td class="tabletext">Ren Yang</td>
+            </tr>   
+
+​     		<tr>
+                    <td><span class="announce_date">10:55 - 11:45</span></td>
+                    <td class="tabletext" style="text-align: left">Deep video compression </td>
+                    <td class="tabletext">Guo Lu</td>
+            </tr>   
+
+​     		<tr>
+                    <td><span class="announce_date">11:45 - 12:15</span></td>
+                    <td class="tabletext" style="text-align: left">Break </td>
+                    <td class="tabletext">--</td>
+            </tr>   
+
+​     		<tr>
+                    <td><span class="announce_date">12:15 - 13:00</span></td>
+                    <td class="tabletext" style="text-align: left">Deep point cloud compression </td>
+                    <td class="tabletext">Shenlong Wang</td>
+            </tr>   
+
+​     		<tr>
+                    <td><span class="announce_date">13:00 - 13:30</span></td>
+                    <td class="tabletext" style="text-align: left">Visual data compression standards </td>
+                    <td class="tabletext">Shan Liu</td>
+            </tr>   
+
+​	</tbody>
     </table>
 </div>
-
-
 
 
 
