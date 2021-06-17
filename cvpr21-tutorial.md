@@ -17,7 +17,7 @@ ___
 
 <tr> 
 
-<td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/wangshenlong.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~slwang/">Shenlong Wang<br>Uber ATG</a></td> 
+<td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/wangshenlong.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~slwang/">Shenlong Wang<br>UIUC</a></td> 
 
 <td align="center" valign="top" style="width:300px; border-color: transparent; overflow: hidden;"> <img src="images/raquel.jpg" width="150px" height="150px" style="border-radius:100%; position:relative;" /><br><a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun<br>Uber ATG / University of Toronto</a></td> 
 
@@ -59,7 +59,7 @@ ___
             </tr>
             	<tr>
                     <td><span class="announce_date">10:05 - 10:55</span></td>
-                    <td class="tabletext" style="text-align: left">Deep image compression</td>
+                    <td class="tabletext" style="text-align: left">Deep image compression [<a href="<https://github.com/guolu-home/guolu-home.github.io/tree/master/slides/CVPR_tutorial_image_compression.pdf>">slides</a>] </td>
                     <td class="tabletext">Ren Yang</td>
             </tr>   
             	<tr>
@@ -123,12 +123,6 @@ Specifically, we will first introduce the end-to-end learning based image and vi
    b) Visual data compression for machines<br>
    c) Visual data compression for robotics and self-driving<br>
    d) Open source projects<br>
-
-## Tutorial
-* SlideShare ([link]())
-* Slides ([pdf]())
-
-
 
 
 
