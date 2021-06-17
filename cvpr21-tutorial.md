@@ -45,7 +45,7 @@ ___
 </table> 
 
 
-## Schedule
+## Schedule (EDT)
 <div>
     <table class="alt">
             <tbody>
