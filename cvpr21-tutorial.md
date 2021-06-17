@@ -59,12 +59,12 @@ ___
             </tr>
             	<tr>
                     <td><span class="announce_date">10:05 - 10:55</span></td>
-                    <td class="tabletext" style="text-align: left">Deep image compression [<a href="https://github.com/guolu-home/guolu-home.github.io/tree/master/slides/CVPR_tutorial_image_compression.pdf">slides</a>] </td>
+                    <td class="tabletext" style="text-align: left">Deep image compression [<a href="https://drive.google.com/file/d/1rgsPeRsipyGJmEMpC2YDsiT2gXEDwHx_/view?usp=sharing">slides</a>] </td>
                     <td class="tabletext">Ren Yang</td>
             </tr>   
             	<tr>
                     <td><span class="announce_date">10:55 - 11:45</span></td>
-                    <td class="tabletext" style="text-align: left">Deep video compression </td>
+                    <td class="tabletext" style="text-align: left">Deep video compression [<a href="https://drive.google.com/file/d/1_-ZUYK4pPhuqGTPVLUIl8PHFeVp5OJ8R/view?usp=sharing">slides</a>]</td>
                     <td class="tabletext">Guo Lu</td>
             </tr>   
             	<tr>
@@ -74,12 +74,12 @@ ___
             </tr>  
             	<tr>
                     <td><span class="announce_date">12:15 - 13:00</span></td>
-                    <td class="tabletext" style="text-align: left">Deep point cloud compression </td>
+                    <td class="tabletext" style="text-align: left">Deep point cloud compression [<a href="https://drive.google.com/file/d/1tpvDWGbPhzIuehEg9PbzaNxLmevv43d7/view?usp=sharing">slides</a>]</td>
                     <td class="tabletext">Shenlong Wang</td>
             </tr>   
             	<tr>
                     <td><span class="announce_date">13:00 - 13:30</span></td>
-                    <td class="tabletext" style="text-align: left">Visual data compression standards </td>
+                    <td class="tabletext" style="text-align: left">Visual data compression standards [<a href="https://drive.google.com/file/d/1L2L2H2iWeRuQxUXcsI-TkRKGKg4EJPi1/view?usp=sharing">slides</a>]</td>
                     <td class="tabletext">Shan Liu</td>
             </tr>   
     	</tbody>
