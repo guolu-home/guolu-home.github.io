@@ -59,7 +59,7 @@ ___
             </tr>
             	<tr>
                     <td><span class="announce_date">10:05 - 10:55</span></td>
-                    <td class="tabletext" style="text-align: left">Deep image compression [<a href="<https://github.com/guolu-home/guolu-home.github.io/tree/master/slides/CVPR_tutorial_image_compression.pdf>">slides</a>] </td>
+                    <td class="tabletext" style="text-align: left">Deep image compression [<a href="https://github.com/guolu-home/guolu-home.github.io/tree/master/slides/CVPR_tutorial_image_compression.pdf">slides</a>] </td>
                     <td class="tabletext">Ren Yang</td>
             </tr>   
             	<tr>
