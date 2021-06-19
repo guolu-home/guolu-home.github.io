@@ -74,7 +74,7 @@ ___
             </tr>  
             	<tr>
                     <td><span class="announce_date">12:15 - 13:00</span></td>
-                    <td class="tabletext" style="text-align: left">Deep point cloud compression [<a href="https://drive.google.com/file/d/1tpvDWGbPhzIuehEg9PbzaNxLmevv43d7/view?usp=sharing">slides</a>]</td>
+                    <td class="tabletext" style="text-align: left">Deep point cloud compression [<a href="https://drive.google.com/file/d/1fmLyTy2RPGZoU-7NKZl0VjIpXlQAJtHp/view?usp=sharing">slides</a>]</td>
                     <td class="tabletext">Shenlong Wang</td>
             </tr>   
             	<tr>
